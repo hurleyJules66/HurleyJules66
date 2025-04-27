@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Hurley Jules!
 
-🎓 Degree in Computer Science | 💻 Web Developer | 
+🎓Computer Science | 💻 Web Developer | 
 🔍 Passionate about building practical, real-world applications that make a difference.
 
 ---
